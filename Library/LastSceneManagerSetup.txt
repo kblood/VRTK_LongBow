@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/VRTK/Examples/017_CameraRig_TouchpadWalking.unity
+  isLoaded: 1
+  isActive: 1

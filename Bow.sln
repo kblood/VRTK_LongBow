@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bow", "Bow.csproj", "{880D2FB1-22DE-1AF6-0F5D-DE632364B4C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bow.Editor", "Bow.Editor.csproj", "{B6FCA971-CD7B-7B9E-AC77-22CF5771F3A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{880D2FB1-22DE-1AF6-0F5D-DE632364B4C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{880D2FB1-22DE-1AF6-0F5D-DE632364B4C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{880D2FB1-22DE-1AF6-0F5D-DE632364B4C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{880D2FB1-22DE-1AF6-0F5D-DE632364B4C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6FCA971-CD7B-7B9E-AC77-22CF5771F3A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6FCA971-CD7B-7B9E-AC77-22CF5771F3A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6FCA971-CD7B-7B9E-AC77-22CF5771F3A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6FCA971-CD7B-7B9E-AC77-22CF5771F3A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
